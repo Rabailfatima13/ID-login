@@ -1,3 +1,7 @@
+#All the code is attached here
+#line wise 
+
+
 # ID-login
 #include <iostream>
 #include <fstream>
